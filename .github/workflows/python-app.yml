@@ -49,6 +49,3 @@ jobs:
       with:
         app_name: king-prawn-app
         token: ${{ secrets.DIGITALOCEAN_ACCESS_TOKEN }}
-      with:
-        app_name: king-prawn-app
-        token: ${{ secrets.DIGITALOCEAN_ACCESS_TOKEN }}
